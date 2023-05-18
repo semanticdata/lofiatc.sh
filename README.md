@@ -1,3 +1,5 @@
+<p align=right>Source: https://github.com/phazus/lofiatc.sh</p>
+
 # lofiatc.sh
 
 Small bash file that implements https://www.lofiatc.com with two running [mpv](https://mpv.io/) instances.
@@ -24,4 +26,5 @@ cd lofiatc.sh
 
 - Following LiveATC's [Terms of Service](https://www.liveatc.net/legal/), links to their streams have been replaced by freely available YouTube videos.
 - Support for [Broadcastify's top feeds](https://www.broadcastify.com/listen/top) has been added if you want to listen to live feeds.
-- `lofimp3.m3u` and `lofiyt.m3u` were swapped (temporarily).
+- Temporary: `lofimp3.m3u` and `lofiyt.m3u` were swapped.
+- Inspired by: <https://github.com/phazus/lofiatc.sh>
