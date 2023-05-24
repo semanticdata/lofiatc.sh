@@ -2,7 +2,7 @@
 
 # lofiatc.sh
 
-Small bash file that implements https://www.lofiatc.com with two running [mpv](https://mpv.io/) instances.
+Small bash script implementing https://lofiatc.com using two simultaneous https://mpv.io instances.
 
 ```sh
 $ ./lofiatc.sh 
