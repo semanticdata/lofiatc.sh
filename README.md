@@ -2,7 +2,7 @@
 
 # lofiatc.sh
 
-Small bash script implementing https://lofiatc.com using two simultaneous https://mpv.io instances.
+Small bash script implementing https://lofiatc.com using two simultaneous https://mpv.io instances. One instance plays a set lofi music playlist, and the other streams from https://liveatc.net
 
 ```sh
 $ ./lofiatc.sh 
